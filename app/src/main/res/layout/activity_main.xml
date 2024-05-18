@@ -75,7 +75,7 @@
         android:layout_marginStart="19dp"
         android:layout_marginTop="239dp"
         android:onClick="bukaActivity2"
-        android:text="13120220038"
+        android:text="13120220032"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
